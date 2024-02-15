@@ -45,6 +45,8 @@ public class IntArrayWorker
         return total;
     }
 
+
+
     /**
      * Method to return the total using a nested for-each loop
      * @return the total of the values in the array

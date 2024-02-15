@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea47bb25-8530-4f9a-a5c5-a0a6398927da" name="Changes" comment="AP CS PixLab, IntelliJ">
+    <list default="true" id="ea47bb25-8530-4f9a-a5c5-a0a6398927da" name="Changes" comment="First">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PictureExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PictureExplorer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntArrayWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntArrayWorker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +91,14 @@
       <option name="presentableId" value="Default" />
       <updated>1707755071512</updated>
     </task>
+    <task id="LOCAL-00001" summary="First">
+      <created>1708017259433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708017259433</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="AP CS PixLab, IntelliJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="AP CS PixLab, IntelliJ" />
+    <MESSAGE value="First" />
+    <option name="LAST_COMMIT_MESSAGE" value="First" />
   </component>
 </project>

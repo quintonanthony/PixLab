@@ -23,6 +23,11 @@ public class IntArrayWorker
         return count;
     }
 
+
+//    public int getLargest() {
+//
+//    }
+
     /**
      * Method to return the total
      * @return the total of the values in the array

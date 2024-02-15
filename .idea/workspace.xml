@@ -6,19 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ea47bb25-8530-4f9a-a5c5-a0a6398927da" name="Changes" comment="AP CS PixLab, IntelliJ">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PixLab_IntelliJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PixLab_IntelliJ.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ColorChooser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ColorChooser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DigitalPicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DigitalPicture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileChooser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileChooser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ImageDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImageDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntArrayWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntArrayWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntArrayWorkerTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntArrayWorkerTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Picture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PictureExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PictureExplorer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PictureFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PictureFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PictureTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PictureTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pixel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pixel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimplePicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimplePicture.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2cH4FmT8USa3MNwIigfL55zsLrf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -101,6 +92,17 @@
       <updated>1707755071512</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="AP CS PixLab, IntelliJ" />
